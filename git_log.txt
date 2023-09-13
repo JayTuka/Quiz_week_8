@@ -1,0 +1,54 @@
+commit 834957ce192ed2c86932502f28c71f3764b1367e
+Author: JayTuka <jayrtuka@gmail.com>
+Date:   Wed Sep 13 15:50:47 2023 +1000
+
+    adding question 2 parts
+
+commit 1a247a4400412fb9a2837fcf483f35bf940e8a23
+Author: JayTuka <jayrtuka@gmail.com>
+Date:   Wed Sep 13 15:38:50 2023 +1000
+
+    updating question 1
+
+commit c81031beb5e52de2bd91ad9ad9b03ad5566678f9
+Author: JayTuka <jayrtuka@gmail.com>
+Date:   Wed Sep 13 15:33:37 2023 +1000
+
+    adding q1 image
+
+commit 5fb67e4eb7b47f77fcd4a4aabe2758f3e2e7a5a9
+Author: Kevin <kevinfrom666@gmail.com>
+Date:   Wed Aug 30 16:41:34 2023 +1000
+
+    Update README.md
+
+commit 1927190b3939b3c459cc877b8fa80b7e72d8761e
+Author: Kevin <kevinfrom666@gmail.com>
+Date:   Wed Aug 30 16:40:15 2023 +1000
+
+    Update climate_q2.py
+
+commit 651d64e75f813f96405e34fdef74f4beb2326e05
+Author: Kevin <kevinfrom666@gmail.com>
+Date:   Wed Aug 30 16:39:54 2023 +1000
+
+    Update climate_q1.py
+
+commit 336ec3cd082f0e9b88f5dd7f45eb8f7894cb7285
+Merge: 1f9eff2 921103c
+Author: 2810ICT-7810ICT-Assignment <kevinfrom666@gmail.com>
+Date:   Wed Aug 30 15:01:16 2023 +1000
+
+    ready
+
+commit 921103c53ce6c3b89a1a6fcca5f6b01e6a370f1a
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jun 27 18:18:47 2023 +1000
+
+    Add files via upload
+
+commit 1f9eff2c890d3d750e3393e6db529082cbe5724e
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jun 27 18:16:42 2023 +1000
+
+    Add files via upload
